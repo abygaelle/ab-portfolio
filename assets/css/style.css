@@ -5,6 +5,15 @@
 * License: https://bootstrapmade.com/license/
 */
 
+/*
+Custom CSS
+*/
+/* .edit-img{
+  width: 336px;
+  height: 252px;
+  object-fit: cover;
+} */
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -594,8 +603,19 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Services
+# Services-skills
 --------------------------------------------------------------*/
+.icon-cs{
+  width: 90px;
+  /* height: 54px; */
+}
+.skill-title{
+  font-size: 26px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #050d18;
+}
 .services .icon-box {
   margin-bottom: 20px;
 }
